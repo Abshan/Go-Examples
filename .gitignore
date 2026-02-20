@@ -1,0 +1,13 @@
+# Binaries and build output
+bin/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test output
+*.test
+*.out
+
+# Editor/OS noise
+.DS_Store
