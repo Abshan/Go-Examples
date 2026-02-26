@@ -10,8 +10,9 @@ samples/
     hello-world/
   connections/
     tcp-client/
+    mysql/
   http-clients/
     simple-get/
   backends/
-    basic-server/
+    basic-http-server/
 ```
